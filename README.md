@@ -1,9 +1,9 @@
-# Screenshot of work (React Week 6 Exercise, Part 2)
+# Screenshot of work (React Week 7 Exercise)
 
-## UsersForm.jsx
+## Deleting User
 
-![Screenshot of work](./public/screenshot-1.png)
+![Screenshot of work](./public/screenshot-1.gif)
 
-## Form updating the UI
+## Editing User
 
-![Screenshot of work](./public/form-video.gif)
+![Screenshot of work](./public/screenshot-2.gif)

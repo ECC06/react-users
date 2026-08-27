@@ -16,7 +16,10 @@ class UsersForm extends Component {
   handleSubmit = (event) => {
     event.preventDefault()
     console.log(this.state)
-    this.props.onAddUser(this.state)
+    this.props.onAddUser({
+      ...this.state,
+      id: crypto.randomUUID(),
+    })
     this.setState({
       name: '',
       email: '',
